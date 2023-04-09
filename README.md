@@ -107,7 +107,7 @@ goal node catchup KODU-BURAYA-YAZIN -d /var/lib/algorand/
 
 ![image](https://user-images.githubusercontent.com/101635385/230796454-ac79a0a7-fd9f-4013-9bd6-561a808daa14.png)
 
-* Şimdi tekrar loglara bakalım. Sync Tim 0.0s olduğu anda Algo nodeniz senkronize olmuş demektir. 
+* Şimdi tekrar loglara bakalım. Sync Time 0.0s olduğu anda Algo nodeniz senkronize olmuş demektir. 
 
 ```shell
 goal node status -d /var/lib/algorand
