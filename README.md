@@ -40,7 +40,7 @@ Goracle Görev yaparak ve node kurarak puan toplayabilirsiniz. Node kurmak 4000 
 
   ## 🟢 3- Goracle şifre 
 
-* Goracle  [Discord](https://discord.gg/M7wSArcGDX) kanalına girip bir Ticket bilet oluşturun ve Node kurulumu için şifre isteyin. Size bir şifre verecek bu şifreyi saklayın ilerki adımlarda lazım olacak.
+* Goracle  [Discord](https://discord.gg/M7wSArcGDX) kanalına girip bir Ticket bilet oluşturun ve Node kurulumu için şifre isteyin. Size bir şifre verecek bu şifreyi saklayın ilerki adımlarda STAKE yapmak için lazım olacak. 
 
 ![image](https://user-images.githubusercontent.com/101635385/230796886-225cf1ed-b640-42d6-bc1c-cce0250d52e5.png)
 
