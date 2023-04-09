@@ -5,27 +5,44 @@
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Hercules4413)
 
+ * [Goracle Discord](https://discord.gg/M7wSArcGDX)
+ * [Goracle Twitter](https://twitter.com/GoracleNetwork)
+
+
+ ##  Sistem Gereksinimleri.
+
+ * 2 Core
+ * 4 gb RAM
+ * 50 GB disk
+
+
+
+Goracle Görev yaparak ve node kurarak puan toplayabilirsiniz. Node kurmak 4000 Puan görevlerde türüne göre değişiyor. 
+
+* Bu adresten görevleri yapabilirsiniz  https://testnet-app.goracle.io/incentivized-testnet
+
+<br><br>
  
  
-  ## 1- Pera Wallet kurulumu
+  ## 🟢 1- Pera Wallet kurulumu
 
  * ilk yapılması gereken Algo üzerinde [PERA WALLET](https://web.perawallet.app/) hesabı açmanız gerekiyor. Daha sonra Setting kısmından ağı Testnete geçirin. 
 
 ![image](https://user-images.githubusercontent.com/101635385/230795905-2a576484-ab36-437e-8b6e-5acc79fe78d8.png)
 
-  ## 2- Algo faucet
+  ## 🟢 2- Algo faucet
 
 * Açmış olduğunuz Pera wallete Algo token almanız lazım aşağıdaki linkten alabildiğiniz kadar alın. 
 
 [Faucet](https://bank.testnet.algorand.network/)
 
-  ## 3- Goracle şifre 
+  ## 🟢 3- Goracle şifre 
 
 * Goracle  [Discord](https://discord.gg/M7wSArcGDX) kanalına girip bir Ticket bilet oluşturun ve Node kurulumu için şifre isteyin. Size bir şifre verecek bu şifreyi saklayın ilerki adımlarda lazım olacak.
 
 ![image](https://user-images.githubusercontent.com/101635385/230796886-225cf1ed-b640-42d6-bc1c-cce0250d52e5.png)
 
-  ## 4- Algo Node kurulumu
+  ## 🟢 4- Algo Node kurulumu
 
 * Goracle Nodemizi çalıştırabilmek için Algo Testnet node kurulumu yapmamız gerekiyor adımları tek tek uygulayın ve senkronize olmasını bekleyin. Algo node kurulumu bitmeden Goracle node kurmayın. 
 
@@ -137,7 +154,7 @@ goal node status -d /var/lib/algorand
 ```
 
 
-  ## 5- Algo Node Token
+  ## 🟢 5- Algo Node Token
 
 * Şimdi Algo nodemizi kurduk senkronize olduktan sonra token alacağız. Aşağıdaki adımları izleyin ve çıkan ekranda bir token göreceksiniz bunu kopyalayın ve biryere yazın kaydedin.
 
@@ -218,7 +235,7 @@ goracle init
 <hr>
 
 
-  ## 6- .goracle dosyası
+  ## 🟢 6- .goracle dosyası
 
 * Goracle dosyasını düzenleyelim. Aşağıdaki komutu girdikten sonra resimdeki gibi alanları düzeltin.
 
@@ -242,7 +259,7 @@ cat algod.net
 
 <hr>
 
-  ## 7- Goracle düğümünüzü başlatın.
+  ## 🟢 7- Goracle düğümünüzü başlatın.
 
 ```shell
 goracle docker-start --background
@@ -256,5 +273,16 @@ docker logs -f goracle-nr
 
 
 ![image](https://user-images.githubusercontent.com/101635385/230799145-06ed3b7d-e3b5-4322-bdf6-42c43fe3d088.png)
+
+
+  ## 🟢 8- Goracle yedekleme
+
+Sunucunuza bağlanın Mobaxtrem , Flezilla artık ne kullanıyorsanız .goracle dosyanızı bilgisayarınıza yedeklemeniz yeterlidir. Taşıma için gerekli. 
+
+![image](https://user-images.githubusercontent.com/101635385/230799376-2942d728-e673-4851-a8b4-e56311b61b56.png)
+
+
+
+Beğenmeyi forklamayı ve yıldız atmayı unutmayın. Ayrıca kendinize vakit ayırmayı da unutmayın sevgilerle..
 
 
