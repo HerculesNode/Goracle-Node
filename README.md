@@ -4,12 +4,12 @@
 
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Hercules4413)
- 
+
  
  
   ## 1- Pera Wallet kurulumu
 
- * ilk yapılması gereken Algo üzerinde Pera wallet hesabı açmanız gerekiyor. Daha sonra Setting kısmından ağı Testnete geçirin. 
+ * ilk yapılması gereken Algo üzerinde [PERA WALLET](https://web.perawallet.app/) hesabı açmanız gerekiyor. Daha sonra Setting kısmından ağı Testnete geçirin. 
 
 ![image](https://user-images.githubusercontent.com/101635385/230795905-2a576484-ab36-437e-8b6e-5acc79fe78d8.png)
 
