@@ -4,7 +4,9 @@
 
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Hercules4413)
-
+ 
+ 
+ * [Goracle Telegram Destek](https://t.me/Goracle_Turkey)
  * [Goracle Discord](https://discord.gg/M7wSArcGDX)
  * [Goracle Twitter](https://twitter.com/GoracleNetwork)
 
