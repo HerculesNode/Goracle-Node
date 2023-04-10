@@ -276,6 +276,9 @@ docker logs -f goracle-nr
 
 ![image](https://user-images.githubusercontent.com/101635385/230799145-06ed3b7d-e3b5-4322-bdf6-42c43fe3d088.png)
 
+![image](https://user-images.githubusercontent.com/101635385/230846309-a6e4d45a-9f48-4b5c-a266-c1805d1648f7.png)
+
+
 
   ## 🟢 8- Goracle yedekleme
 
