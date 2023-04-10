@@ -288,6 +288,17 @@ Sunucunuza bağlanın Mobaxtrem , Flezilla artık ne kullanıyorsanız .goracle 
 
 
 
+## 🟢 9- Goracle silme
+
+```shell
+goracle docker-stop
+```
+
+```shell
+rm ~/.goracle
+```
+
+
 Beğenmeyi forklamayı ve yıldız atmayı unutmayın. Ayrıca kendinize vakit ayırmayı da unutmayın sevgilerle..
 
 
